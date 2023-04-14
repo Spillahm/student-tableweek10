@@ -70,6 +70,16 @@ export default {
 
 <style>
 
+#name {
+  background-color: gainsboro;
+  font-style: italic;
+
+}
+#starID {
+  background-color: blanchedalmond;
+  font-style: italic;
+}
+
 
 
 </style>
